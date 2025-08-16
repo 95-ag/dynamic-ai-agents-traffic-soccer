@@ -33,6 +33,6 @@ We addressed coordinated actions in dynamic environments—first, developing rob
 
 ## Acknowledgments
 
-- Developed as part of **DD2438** at KTH Royal Institute of Technology.
+- Developed as part of **Artificial Intelligence and Multi Agent Systems ** at KTH Royal Institute of Technology.
 - Contributors: Aishwarya Ganesan, Ernest Pokropek
 - Forked from original repo: https://github.com/erno98/DD2438-Assignment3.git
